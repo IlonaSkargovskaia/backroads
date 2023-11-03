@@ -1,5 +1,5 @@
 import React from "react";
-import { pageLinks, icons } from "../data";
+import { icons } from "../data";
 import PageLinks from "./PageLinks";
 
 const Footer = () => {

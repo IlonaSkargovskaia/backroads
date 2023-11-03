@@ -1,6 +1,5 @@
 import React from "react";
 import logo from "../images/logo.svg";
-import { pageLinks } from "../data";
 import PageLinks from "./PageLinks";
 import { icons } from "../data";
 
